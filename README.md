@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phill30303
+- 👋 Hi, I’m Filip
 - 👀 I’m interested in Quantitative Finance, Fundamental and Technical analysis
 - 🌱 I’m currently learning Finance, Quantitative Finance and Python
 - 💞️ I’m looking to collaborate on ...
